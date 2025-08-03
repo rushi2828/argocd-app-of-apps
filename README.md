@@ -1,6 +1,4 @@
 
-<img width="1024" height="1024" alt="ChatGPT Image Jul 27, 2025, 03_22_33 PM" src="https://github.com/user-attachments/assets/9fd3a0e9-0f8e-46b4-969f-609cf1f3eace" />
-
 # argocd-app-of-apps
 
 This repository demonstrates how to deploy applications using ArgoCD's App of Apps pattern with Helm charts. It includes the official Guestbook application and an additional sample app (2048 game). ArgoCD is installed via Helm, and GitOps is enabled for managing applications declaratively.
